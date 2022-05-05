@@ -1,0 +1,3 @@
+C:\ALURA\C#\CÓDIGO\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.AssemblyReference.cache
+C:\ALURA\C#\CÓDIGO\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\ALURA\C#\CÓDIGO\source\repos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
